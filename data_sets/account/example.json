@@ -1,0 +1,17 @@
+{
+  "recordId": "d144d750-722a-3ec0-da85-f5abfd82677e",
+  "action": "Account.created",
+  "data": {
+    "type": "account",
+    "id": "b25fd3ce-5866-41d5-3415-d01922433f2e",
+    "attributes": {
+      "name": "dd-test-account-sdfadsgfgadsm",
+      "vertical": "2422258859",
+      "subVertical": "MySubVertical2134",
+      "createdAt": "2022-01-19T13:15:04.777Z",
+      "createdBy": "00ub0oNGTSWTBKOLGLNR",
+      "updatedAt": "2022-01-19T13:15:04.777Z",
+      "updatedBy": "00ub0oNGTSWTBKOLGLNR"
+    }
+  }
+}
